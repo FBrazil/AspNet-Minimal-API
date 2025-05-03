@@ -18,5 +18,8 @@ public class Ingrediente
         Id = id;
         Nome = nome;
     }
-    
+
+    public Ingrediente()
+    {
+    }
 }

@@ -18,5 +18,8 @@ public class Rango
         Id = id;
         Nome = nome;
     }
-    
+
+    public Rango()
+    {
+    }
 }
